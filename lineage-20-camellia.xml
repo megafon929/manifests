@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/xiaomi/camellia" name="megafon929/device_xiaomi_camellia" />
+  <project path="device/xiaomi/camellia-kernel" name="dm700-devs/device_xiaomi_camellia-kernel" />
+  <project path="device/mediatek/sepolicy_vndr" name="dm700-devs/device_mediatek_sepolicy_vndr" />
+  <project path="vendor/xiaomi/camellia" name="dm700-devs/vendor_xiaomi_camellia" />
+  <project path="hardware/mediatek" name="dm700-devs/hardware_mediatek" />
+  <project path="hardware/mediatek/wlan" name="nashc-dev/android_hardware_mediatek_wlan" />
+</manifest>
