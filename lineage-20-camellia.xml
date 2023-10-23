@@ -7,5 +7,6 @@
   <project path="hardware/mediatek" name="dm700-devs/hardware_mediatek" revision="thirteen"/>
   <project path="hardware/mediatek/wlan" name="nashc-dev/android_hardware_mediatek_wlan" revision="lineage-20"/>  
   <project path="vendor/xiaomi/camellia" name="dm700-devs/vendor_xiaomi_camellia" revision="thirteen"/>
+  <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" revision="lineage-20"/>
   
 </manifest>
